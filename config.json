@@ -2,7 +2,7 @@
   "server": "https://ssv-ssr2heroku-us-2.herokuapp.com/",
   "local_address": "0.0.0.0",
   "scheme": "ws",
-  "local_port": 1081,
+  "local_port": 1082,
   "remote_port": 80,
   "password": "cdqdsr970923",
   "timeout": 600,
